@@ -100,7 +100,3 @@ The email agent system:
 - Code and project details remain confidential
 - No storage of sensitive information beyond conversation context
 - Enterprise-grade security measures
-
----
-
-*Lily is a product of Universal Interfaces Corporation, designed to make expert front-end development accessible to everyone through the simplicity of email.*
